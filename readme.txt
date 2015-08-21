@@ -10,8 +10,7 @@
 
 6. run: npm install -g gulp
 
-At this point you are set up with all of the files. Any changes to be made, need to be done
-on the files on the /resources directory.
+At this point you are set up with all of the files. Any changes to be made, need to be done on the files on the /resources directory.
 
 6. For gulp to run as you make changes, install and enable the Live Reload Chrome Extension here:
 https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en
@@ -22,8 +21,7 @@ https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkigh
 
 9. The above 2 steps will build all of the files into public_html
 
-10. When committing files, only commit /resources and /public_html. Never commit the entire root
-   or the /node_modules directory.
+10. When committing files, only commit /resources and /public_html. Never commit the entire root or the /node_modules directory.
 
 
 
