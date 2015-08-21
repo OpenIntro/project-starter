@@ -1,0 +1,23 @@
+{
+  "name": "Project-Starter",
+  "version": "1.0.0",
+  "description": "Dev assets installed and updated through Bower. Please use comments when dependencies are added.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.1",
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0",
+    "parsleyjs": "~2.0.7"
+  },
+  "devDependencies": {
+    "zepto": "~1.1.6",
+    "iCheck": "~1.0.2"
+  }
+}
